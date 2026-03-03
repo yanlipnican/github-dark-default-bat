@@ -31,7 +31,7 @@ git:
 
 ## Preview
 
-![GitHub Dark Default bat theme preview](https://github.com/primer/github-vscode-theme/raw/main/images/dark-default.png)
+![GitHub Dark Default bat theme preview](preview.png)
 
 ## License
 
